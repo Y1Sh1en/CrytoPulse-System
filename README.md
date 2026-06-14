@@ -10,7 +10,7 @@ This project was developed as an individual assignment for **TWT6223 - Web Techn
 
 ## Live Demo
 
-https://yourusername.github.io/CryptoPulse/
+https://y1sh1en.github.io/CrytoPulse-System/
 
 ## Features
 
